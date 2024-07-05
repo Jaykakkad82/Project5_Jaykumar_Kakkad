@@ -1,4 +1,4 @@
-## CHICAGO LANDMARK EXPLORATION
+## AmazingChicago: CHICAGO LANDMARK EXPLORATION
 ## App Description
 ### Application A1:  
 * consists of a single activity containing two fragments - Landlistfragment, webViewFragment (extends fragment class of Andriod framework)
